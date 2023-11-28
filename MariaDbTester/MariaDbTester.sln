@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34316.72
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MariaDbTester", "MariaDbTester\MariaDbTester.csproj", "{AC00DDDD-0557-489C-841C-49AE931534E8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC00DDDD-0557-489C-841C-49AE931534E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC00DDDD-0557-489C-841C-49AE931534E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC00DDDD-0557-489C-841C-49AE931534E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC00DDDD-0557-489C-841C-49AE931534E8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BA66B97C-75E2-4B30-B36C-642AA6404B96}
+	EndGlobalSection
+EndGlobal
